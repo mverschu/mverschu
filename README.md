@@ -26,24 +26,32 @@ I'm passionate about **ethical hacking**, **security education**, and **sharing 
 
 <div align="center">
 
-### Offensive Security & Penetration Testing
-![OSEP](https://img.shields.io/badge/OSEP-Offensive%20Security%20Experienced%20Penetration%20Tester-red?style=for-the-badge&logo=offensive-security)
-![CRTE](https://img.shields.io/badge/CRTE-Certified%20Red%20Team%20Expert-red?style=for-the-badge)
-![OSCP](https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-red?style=for-the-badge&logo=offensive-security)
-![OSWP](https://img.shields.io/badge/OSWP-Offensive%20Security%20Wireless%20Professional-red?style=for-the-badge&logo=offensive-security)
-![eNDP](https://img.shields.io/badge/eNDP-eLearnSecurity%20Network%20Defense%20Professional-blue?style=for-the-badge)
+### 🔴 Offensive Security & Penetration Testing
 
-### Web Application Security
-![eWPT](https://img.shields.io/badge/eWPT-eLearnSecurity%20Web%20App%20Pentester-red?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/OSEP-Offensive%20Security%20Experienced%20Penetration%20Tester-red?style=for-the-badge&logo=offensive-security" alt="OSEP" />
+  <img src="https://img.shields.io/badge/CRTE-Certified%20Red%20Team%20Expert-red?style=for-the-badge" alt="CRTE" />
+  <img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-red?style=for-the-badge&logo=offensive-security" alt="OSCP" />
+  <img src="https://img.shields.io/badge/OSWP-Offensive%20Security%20Wireless%20Professional-red?style=for-the-badge&logo=offensive-security" alt="OSWP" />
+  <img src="https://img.shields.io/badge/eNDP-eLearnSecurity%20Network%20Defense%20Professional-blue?style=for-the-badge" alt="eNDP" />
+</p>
 
+### 🌐 Web Application Security
 
-### General Security & Networking
-![CCNA](https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-white?style=for-the-badge&logo=cisco)
-![MSOS](https://img.shields.io/badge/MSOS-Microsoft%20Office%20Specialist-white?style=for-the-badge&logo=microsoft)
-![MTA](https://img.shields.io/badge/MTA-Microsoft%20Technology%20Associate-white?style=for-the-badge&logo=microsoft)
-![MCPS](https://img.shields.io/badge/MCPS-Microsoft%20Certified%20Professional-white?style=for-the-badge&logo=microsoft)
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-white?style=for-the-badge)
-![Aries Technology](https://img.shields.io/badge/Aries-Technology%20Certified-purple?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/eWPT-eLearnSecurity%20Web%20App%20Pentester-red?style=for-the-badge" alt="eWPT" />
+</p>
+
+### 🔵 General Security & Networking
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-white?style=for-the-badge&logo=cisco" alt="CCNA" />
+  <img src="https://img.shields.io/badge/MSOS-Microsoft%20Office%20Specialist-white?style=for-the-badge&logo=microsoft" alt="MSOS" />
+  <img src="https://img.shields.io/badge/MTA-Microsoft%20Technology%20Associate-white?style=for-the-badge&logo=microsoft" alt="MTA" />
+  <img src="https://img.shields.io/badge/MCPS-Microsoft%20Certified%20Professional-white?style=for-the-badge&logo=microsoft" alt="MCPS" />
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-white?style=for-the-badge" alt="CEH" />
+  <img src="https://img.shields.io/badge/Aries-Technology%20Certified-purple?style=for-the-badge" alt="Aries Technology" />
+</p>
 
 </div>
 
