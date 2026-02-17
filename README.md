@@ -38,10 +38,10 @@ I'm passionate about **ethical hacking**, **security education**, and **sharing 
 
 
 ### General Security & Networking
-![CCNA](https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-blue?style=for-the-badge&logo=cisco)
-![MSOS](https://img.shields.io/badge/MSOS-Microsoft%20Office%20Specialist-blue?style=for-the-badge&logo=microsoft)
-![MTA](https://img.shields.io/badge/MTA-Microsoft%20Technology%20Associate-blue?style=for-the-badge&logo=microsoft)
-![MCPS](https://img.shields.io/badge/MCPS-Microsoft%20Certified%20Professional-blue?style=for-the-badge&logo=microsoft)
+![CCNA](https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-white?style=for-the-badge&logo=cisco)
+![MSOS](https://img.shields.io/badge/MSOS-Microsoft%20Office%20Specialist-white?style=for-the-badge&logo=microsoft)
+![MTA](https://img.shields.io/badge/MTA-Microsoft%20Technology%20Associate-white?style=for-the-badge&logo=microsoft)
+![MCPS](https://img.shields.io/badge/MCPS-Microsoft%20Certified%20Professional-white?style=for-the-badge&logo=microsoft)
 ![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-white?style=for-the-badge)
 ![Aries Technology](https://img.shields.io/badge/Aries-Technology%20Certified-purple?style=for-the-badge)
 
